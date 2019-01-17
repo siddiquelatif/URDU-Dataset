@@ -18,6 +18,6 @@ In EYY, E provides the information about emotion i.e., A,H,N and S for Angery, H
 
 For example, file name SM1_F01_A12 indicates that this is 1st file recorded by speaker No. 1 and A12 indicates that this is 12th file of angery emotion.  
 
-For more details about dataset, please refer the complete paper "Cross Lingual Speech Emotion Recognition: Urdu vs. Western Languages". 
+For more details about dataset, please refer the complete paper "Cross Lingual Speech Emotion Recognition: Urdu vs. Western Languages". https://arxiv.org/pdf/1812.10411.pdf
 
 
